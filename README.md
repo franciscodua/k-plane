@@ -1,2 +1,2 @@
 # k-plane
-Pyton Implementation of k-plane algorithm
+Java implementation of k-plane algorithm
